@@ -1,0 +1,512 @@
+Number,Name,Type,Rarity,xp,hp,atk,def,spd,total,NumberToEvolve,BadgesRequired
+1,Morty,Normal,Exotic,50,45,45,45,40,175,,N/A
+2,Scruffy Morty,Rock,Common,45,45,35,40,40,160,4,0
+3,Unkempt Morty,Rock,Rare,76,60,50,55,55,220,6,5
+4,Hobo Morty,Rock,Epic,124,80,70,75,75,300,,10
+5,Old Morty,Paper,Common,43,44,45,45,35,169,4,0
+6,Geriatric Morty,Paper,Rare,75,57,61,62,47,227,6,5
+7,Ancient Morty,Paper,Epic,120,71,69,72,89,301,,11
+8,Rabbit Morty,Scissors,Common,49,45,43,43,41,172,6,0
+9,Evil Rabbit Morty,Scissors,Rare,135,75,76,79,77,307,,12
+10,No Eye Morty,Paper,Common,47,46,48,43,35,172,4,0
+11,One Eye Morty,Paper,Rare,79,59,62,57,48,226,6,6
+12,Three Eye Morty,Paper,Epic,129,74,72,69,98,313,,13
+13,Test X1 Morty,Paper,Common,48,54,46,34,43,177,4,0
+14,Test X46 Morty,Paper,Rare,82,65,68,42,58,233,6,6
+15,Test X72 Morty,Paper,Epic,135,82,76,70,76,304,,14
+16,Self-Defense Morty,Rock,Common,50,49,52,43,35,179,4,0
+17,Karate Morty,Rock,Rare,83,62,70,57,48,237,6,7
+18,No Mercy Morty,Rock,Epic,134,78,81,69,80,308,,15
+19,Mustache Morty,Scissors,Common,49,48,51,30,45,174,4,0
+20,Beard Morty,Scissors,Rare,82,59,68,42,58,227,6,7
+21,Hipster Morty,Scissors,Epic,132,73,81,64,79,297,,16
+22,Ad Space Morty,Paper,Common,48,47,41,52,42,182,4,0
+23,Jerry's Game Morty,Paper,Rare,80,59,58,62,59,238,6,8
+24,Pocket Mortys Morty,Paper,Epic,129,79,76,81,74,310,,17
+25,Blue Shirt Morty,Paper,Common,50,45,45,45,45,180,3,0
+26,Red Shirt Morty,Paper,Rare,80,55,55,55,55,220,4,5
+27,Orange Shirt Morty,Paper,Rare,110,65,65,65,65,260,5,10
+28,Green Shirt Morty,Paper,Epic,140,75,75,75,75,300,6,15
+29,Purple Shirt Morty,Paper,Epic,170,85,85,85,85,340,6,20
+30,Rainbow Shirt Morty,Paper,Exotic,200,95,95,95,95,380,,25
+31,Exo-Alpha Morty,Scissors,Common,49,50,45,46,43,184,4,0
+32,Exo-Omega Morty,Scissors,Rare,95,74,63,62,61,260,6,9
+33,Exo-Prime Morty,Scissors,Epic,150,98,76,76,76,326,,18
+34,Spoon Morty,Rock,Common,51,42,44,42,44,172,4,0
+35,Fork Morty,Rock,Rare,81,56,57,56,57,226,6,9
+36,Spork Morty,Rock,Epic,127,74,77,74,77,302,,19
+37,Peace Morty,Paper,Common,52,46,47,45,48,186,4,0
+38,Hippie Morty,Paper,Rare,96,63,61,62,65,251,6,10
+39,Off The Grid Morty,Paper,Epic,156,79,76,79,80,314,,20
+40,Big Head Morty,Rock,Common,55,53,52,55,49,209,4,6
+41,Giant Head Morty,Rock,Rare,114,70,72,76,55,273,6,12
+42,Colossal Head Morty,Rock,Epic,173,95,94,91,60,340,,21
+43,Spooky Morty,Paper,Common,58,48,47,48,62,205,4,4
+44,Ghostly Morty,Paper,Rare,120,62,63,63,74,262,6,11
+45,Phantom Morty,Paper,Epic,178,75,76,78,95,324,,22
+46,Double Morty,Scissors,Common,63,47,49,47,49,192,4,0
+47,Triple Morty,Scissors,Rare,113,62,62,62,62,248,6,11
+48,Multi Morty,Scissors,Epic,179,95,81,76,82,334,,23
+49,Greaser Morty,Rock,Common,63,50,50,62,48,210,6,0
+50,Biker Morty,Rock,Rare,180,88,88,94,78,348,,24
+51,Stray Cat Morty,Scissors,Common,61,47,49,47,49,192,4,3
+52,Two Cat Morty,Scissors,Rare,132,62,62,62,62,248,6,10
+53,Crazy Cat Morty,Scissors,Epic,188,84,84,84,84,336,,25
+54,Buff Morty,Rock,Common,139,66,64,64,58,252,6,7
+55,Wrestler Morty,Rock,Rare,196,95,94,94,78,361,,26
+56,Veiny Morty,Scissors,Common,61,48,48,51,48,195,4,2
+57,No Skin Morty,Scissors,Rare,140,67,66,72,68,273,6,10
+58,Skeleton Morty,Scissors,Epic,204,87,85,93,88,353,,27
+59,Magic Morty,Rock,Common,62,52,49,50,54,205,4,9
+60,Mystic Morty,Rock,Rare,142,68,67,69,72,276,6,16
+61,Wizard Morty,Rock,Epic,210,91,90,91,94,366,,28
+62,Telepathic Morty,Scissors,Common,63,56,51,51,52,210,4,7
+63,Telekinetic Morty,Scissors,Rare,50,72,69,72,68,281,6,13
+64,Psychokinetic Morty,Scissors,Epic,213,95,92,95,89,371,,29
+65,Swimmer Morty,Rock,Common,65,51,52,54,56,213,4,5
+66,Mermaid Morty,Rock,Rare,145,68,74,73,70,285,6,18
+67,Reverse Mermaid Morty,Rock,Epic,230,90,95,92,96,373,,30
+68,Business Morty,Paper,Exotic,80,50,50,50,50,200,,3
+69,Gaseous Morty,Rock,Exotic,80,50,50,50,50,200,,3
+70,Sausage Morty,Scissors,Exotic,80,50,50,50,50,200,,3
+71,Shadow Morty,Scissors,Exotic,80,50,50,50,50,200,,3
+72,Aqua Morty,Paper,Exotic,210,88,92,87,93,360,,13
+73,Cyclops Morty,Scissors,Exotic,220,93,92,91,93,369,,16
+74,Mini Morty,Rock,Exotic,230,80,100,100,98,378,,19
+75,Cowboy Morty,Paper,Exotic,240,95,95,95,95,380,,22
+76,Robot Morty,Scissors,Exotic,250,102,98,110,87,397,,25
+77,Hammerhead Morty,Rock,Exotic,260,96,104,106,97,403,,28
+78,Guard Morty,Scissors,Exotic,270,101,100,100,102,403,,31
+79,Cronenberg Morty,Normal,Exotic,290,105,105,102,107,419,,40
+80,Mascot Morty,Paper,Exotic,280,99,99,99,120,417,,N/A
+81,Egg Morty,Rock,Exotic,50,50,50,50,50,200,11,N/A
+82,The One True Morty,Rock,Exotic,300,110,110,110,110,440,,N/A
+83,V Neck Morty,Scissors,Common,49,46,44,43,43,176,6,0
+84,Tank Top Morty,Scissors,Rare,135,75,77,79,77,308,,9
+85,Mullet Morty,Scissors,Common,65,50,50,50,50,200,4,4
+86,Chops Morty,Scissors,Rare,120,68,68,68,68,272,6,10
+87,Afro Morty,Scissors,Epic,182,86,86,86,86,344,,22
+88,Tired Morty,Rock,Common,62,52,44,54,48,198,4,4
+89,Sleepy Morty,Rock,Rare,130,70,62,72,66,270,6,11
+90,Asleep Morty,Rock,Epic,200,88,80,90,84,342,,23
+91,Hot Morty,Paper,Common,148,73,80,62,70,285,6,16
+92,Flaming Morty,Paper,Rare,240,97,105,85,88,375,,30
+93,Cold Morty,Paper,Common,148,73,62,80,70,285,6,16
+94,Frozen Morty,Paper,Rare,240,97,85,105,88,375,,30
+95,Flu Morty,Rock,Common,98,72,80,72,60,284,6,17
+96,Mutant Flu Morty,Rock,Rare,220,96,106,96,80,378,,35
+97,Diamond Eyes Morty,Scissors,Common,99,66,66,66,66,264,4,13
+98,Cocoon Morty,Scissors,Rare,154,82,80,106,70,338,6,24
+99,Butterfly Morty,Scissors,Epic,266,102,104,98,90,394,,35
+100,Punk Morty,Rock,Exotic,300,92,100,104,102,398,,42
+101,Big Tongue Morty,Paper,Exotic,310,124,95,95,94,408,,42
+102,Pizza Morty,Scissors,Common,65,52,48,54,48,202,4,7
+103,Mushroom Pizza Morty,Scissors,Rare,122,66,63,69,63,261,6,16
+104,Pepperoni Pizza Morty,Scissors,Epic,175,82,78,85,78,323,,28
+105,Unicorn Chaser Morty,Rock,Common,69,56,54,56,54,220,4,10
+106,Unicorn Morty,Rock,Rare,132,74,70,74,70,288,6,20
+107,Super Unicorn Morty,Rock,Epic,204,82,85,95,80,342,,30
+108,Moon Morty,Rock,Common,70,58,58,52,52,220,4,17
+109,Sun Morty,Rock,Rare,140,72,72,68,68,280,6,24
+110,Black Hole Morty,Rock,Epic,225,93,92,88,88,361,,31
+111,Morticia,Normal,Exotic,320,100,100,100,95,395,,45
+112,Single Snoozle Morty,Scissors,Common,61,58,48,48,48,202,4,5
+113,Double Snoozle Morty,Scissors,Rare,120,75,61,61,61,258,6,15
+114,Triple Snoozle Morty,Scissors,Epic,167,90,77,77,77,321,,25
+115,Super Morty Fan Morty,Paper,Exotic,148,98,78,58,78,312,,21
+116,Super Rick Fan Morty,Paper,Exotic,150,100,80,60,80,320,,23
+117,Blob Morty,Paper,Common,71,57,57,57,45,216,4,4
+118,Jelly Morty,Paper,Rare,126,74,74,74,65,287,6,12
+119,Goo Morty,Paper,Epic,190,88,88,88,75,339,,25
+120,Infected Morty,Scissors,Common,68,72,48,48,48,216,4,14
+121,Parasitic Morty,Scissors,Rare,137,89,60,60,60,269,6,22
+122,Host Morty,Scissors,Epic,221,105,80,80,80,345,,30
+123,Strawberry Morty,Paper,Common,50,45,45,45,45,180,4,0
+124,Orange Morty,Paper,Rare,80,58,58,58,60,234,6,9
+125,Banana Morty,Paper,Epic,130,70,70,70,70,280,,18
+126,Stoned Morty,Rock,Common,55,55,40,60,50,205,4,3
+127,Petrified Morty,Rock,Rare,76,70,52,78,60,260,6,10
+128,Boulder Morty,Rock,Epic,125,85,65,90,70,310,,20
+129,Reptile Morty,Scissors,Common,59,46,45,45,55,191,4,5
+130,Raptor Morty,Scissors,Rare,100,66,62,62,72,262,6,11
+131,Mortysaurus,Scissors,Epic,140,81,75,75,90,321,,21
+132,Dog Bite Morty,Scissors,Common,68,58,52,55,55,220,4,3
+133,Dog Morty,Scissors,Rare,130,76,68,72,72,288,6,14
+134,Werewolf Morty,Scissors,Epic,199,92,76,78,85,331,,26
+135,Boot Camp Morty,Rock,Common,72,55,52,55,55,217,4,19
+136,Shell Shocked Morty,Rock,Rare,145,65,73,70,70,278,6,25
+137,Renegade Morty,Rock,Epic,230,93,99,95,95,382,,32
+138,Headism Morty,Paper,Exotic,300,95,95,95,110,395,,N/A
+139,Turbulent Juice Morty,Rock,Exotic,300,95,110,95,95,395,,N/A
+140,Jerry Fan Morty,Paper,Exotic,300,95,95,110,95,395,,N/A
+141,Exoskeleton Morty,Rock,Exotic,300,110,95,95,95,395,,N/A
+142,Sexy Devil Morty,Scissors,Exotic,300,99,99,99,99,396,,N/A
+143,Summer Morty,Paper,Common,68,50,45,45,50,190,4,11
+144,Jerry Morty,Paper,Rare,80,65,55,50,46,216,5,17
+145,Beth Morty,Paper,Epic,120,60,80,55,90,285,6,18
+146,Rick Morty,Paper,Exotic,190,76,88,80,90,334,,29
+147,Cabin Boy Morty,Scissors,Common,75,49,61,50,44,204,4,9
+148,Swashbuckle Morty,Scissors,Rare,140,57,88,55,44,244,6,20
+149,Cap'n Morty,Scissors,Epic,220,78,105,80,74,337,,31
+150,Miami Morty,Rock,Exotic,300,114,97,90,85,386,,44
+151,New Blood Morty,Scissors,Common,110,49,59,52,59,219,4,12
+152,Count Morty,Scissors,Rare,145,60,86,59,74,279,6,18
+153,Old One Morty,Scissors,Epic,240,71,105,66,110,352,,35
+154,Denim Shorts Morty,Paper,Common,100,65,48,54,50,217,4,7
+155,Double Denim Morty,Paper,Rare,130,80,66,71,69,286,6,15
+156,Triple Denim Morty,Paper,Epic,220,112,82,105,85,384,,30
+157,Cup Morty,Paper,Exotic,210,86,98,97,85,366,,12
+158,Fawn Morty,Rock,Exotic,170,81,91,82,110,364,,16
+159,Seedling Morty,Paper,Common,47,46,48,43,35,172,4,0
+160,Morty of the Valley,Paper,Rare,100,59,62,57,48,226,6,10
+161,Mortydrangea,Paper,Epic,160,74,72,69,98,313,,20
+162,Rookie Morty,Rock,Common,50,45,45,45,45,180,4,0
+163,Detective Morty,Rock,Rare,80,55,55,55,55,220,6,6
+164,Hardboiled Morty,Rock,Epic,110,65,65,65,65,260,,12
+165,Poorly Cloned Morty,Scissors,Exotic,280,110,75,115,105,405,,35
+166,Kitchen Boy Morty,Scissors,Common,58,48,47,48,62,205,4,3
+167,Pastry Chef Morty,Scissors,Rare,120,62,63,63,74,262,6,10
+168,Head Chef Morty,Scissors,Epic,178,75,76,78,95,324,,20
+169,Skin Suit Morty,Rock,Common,61,50,48,48,54,200,4,0
+170,Motion Capture Morty,Rock,Rare,126,72,65,65,76,278,6,5
+171,Rainbow Suit Morty,Rock,Epic,193,93,75,75,95,338,,23
+172,Loner Morty,Rock,Common,55,51,60,50,54,215,4,4
+173,Dangerous Morty,Rock,Rare,114,69,75,67,68,279,6,11
+174,Violent Morty,Rock,Epic,173,85,92,80,82,339,,31
+175,Birdosaur Morty,Paper,Common,55,65,49,49,48,211,4,7
+176,Volcan Morty,Paper,Rare,114,85,63,63,62,273,6,18
+177,Prancer Morty,Paper,Epic,173,110,77,77,75,339,,36
+178,Ace Pilot Morty,Scissors,Exotic,250,90,100,110,100,400,,34
+179,Survivor Morty,Rock,Common,55,60,55,50,45,210,4,
+180,Survivalist Morty,Rock,Rare,114,80,70,70,65,285,6,
+181,Wild Man Morty,Rock,Epic,173,95,85,85,80,345,,
+182,Wild Mascot Morty,Paper,Exotic,350,100,100,100,105,405,,
+183,Animatronic Morty,Scissors,Exotic,300,80,80,80,80,320,,
+184,Plumbus Slave Morty,Scissors,Common,55,60,60,50,55,225,4,
+185,Plumbus Worker Morty,Scissors,Rare,114,75,75,65,70,285,6,
+186,Plumbus Master Morty,Scissors,Epic,173,90,90,80,85,345,,
+187,Plumbus Prawn Morty,Paper,Exotic,300,87,87,87,87,348,,
+188,Plumbonia Morty,Rock,Exotic,300,87,87,87,87,348,,
+189,Armomaly Morty,Rock,Common,55,60,55,55,60,230,4,
+190,Mutagen Morty,Rock,Rare,114,75,70,70,75,290,6,
+191,Carcinogenic Morty,Rock,Epic,173,90,85,85,90,350,,
+192,Mega Morty,Paper,Exotic,300,90,95,110,90,385,,
+193,Spliced Morty,Scissors,Exotic,300,90,110,95,90,385,,
+194,Crewman Morty,Paper,Common,55,60,50,60,55,225,4,
+195,Ensign Morty,Paper,Rare,114,75,65,75,70,285,6,
+196,Lieutenant Morty,Paper,Epic,173,90,80,90,85,345,,
+197,Mortaion Morty,Scissors,Exotic,340,105,105,105,100,415,,
+198,Mortox Morty,Rock,Exotic,360,102,102,102,125,431,,
+199,Girl Morty,Scissors,Exotic,246,85,85,85,90,345,,2
+200,Lawyer Morty,Paper,Common,138,61,61,75,61,258,6,2
+201,Judge Morty,Paper,Rare,233,86,86,100,86,358,,16
+202,Android Morty,Rock,Exotic,180,95,90,93,90,368,,2
+203,Giant Arm Morty,Paper,Exotic,230,90,104,95,90,379,,5
+204,Wasteland Morty,Scissors,Exotic,280,107,97,96,102,402,,10
+205,Sunday Best Morty,Paper,Exotic,250,100,90,90,90,370,,2
+206,Cucumber Morty,Scissors,Common,50,55,45,45,40,185,4,2
+207,Pickle Morty,Scissors,Rare,80,73,63,63,60,259,6,12
+208,Pickled Morty,Scissors,Epic,130,95,85,85,80,345,,21
+209,Concerto Morty,Rock,Exotic,270,92,87,98,94,371,,10
+210,Vindicator Morty,Scissors,Exotic,173,88,75,93,82,338,,2
+211,Hawaiian Morty,Paper,Exotic,260,111,98,90,96,395,,10
+212,Sherlock Morty,Paper,Exotic,270,86,88,88,81,343,,15
+213,Prisoner Morty,Rock,Common,64,50,62,50,48,210,4,2
+214,Felon Morty,Rock,Rare,87,61,74,60,59,254,6,13
+215,Federation Prisoner Morty,Rock,Epic,121,80,98,73,70,321,,22
+216,Poorhouse Morty,Paper,Common,53,55,35,45,40,175,4,2
+217,Chimney Sweep Morty,Paper,Rare,82,75,55,65,60,255,6,10
+218,Master Morty,Paper,Epic,145,95,75,85,80,335,,20
+219,Slime Morty,Scissors,Common,71,67,53,53,45,218,4,2
+220,Snot Morty,Scissors,Rare,126,84,70,70,65,289,6,14
+221,Gunk Morty,Scissors,Epic,190,103,89,89,80,361,,25
+222,Detox Morty,Rock,Exotic,189,94,84,89,89,356,,2
+223,Parade Morty,Rock,Common,50,58,44,44,58,204,4,2
+224,Pride Morty,Rock,Rare,80,75,59,59,75,268,6,11
+225,Festival Morty,Rock,Epic,130,88,75,75,88,326,,19
+226,Big Morty,Scissors,Exotic,201,95,85,85,85,350,,2
+227,Flower Morty,Paper,Exotic,230,88,75,98,75,336,,13
+228,Mindblower Morty,Rock,Exotic,180,87,80,87,87,341,,2
+229,Possessed Morty,Scissors,Common,58,48,51,48,56,203,4,2
+230,Ingested Morty,Scissors,Rare,120,65,72,66,73,276,6,13
+231,Voltamatron Morty,Scissors,Epic,178,77,85,80,94,336,,24
+232,Space Trooper Morty,Paper,Exotic,210,76,89,83,92,340,,8
+233,Snuffles Morty,Rock,Exotic,135,90,79,82,87,338,,16
+234,Monster Morty,Paper,Exotic,205,90,84,80,85,339,,30
+235,War Paint Morty,Rock,Exotic,210,90,80,90,80,340,,10
+236,Froopy Shloop Morty,Paper,Common,61,58,50,45,45,198,4,2
+237,Froopy Bloop Morty,Paper,Rare,120,75,65,58,58,256,6,12
+238,Froopy Moop Morty,Paper,Epic,167,90,80,75,72,317,,24
+239,Mountain Sweater Morty,Paper,Exotic,220,100,80,80,100,360,,2
+240,Blocky Morty,Rock,Exotic,220,80,100,100,80,360,,10
+241,Wonder Morty,Paper,Common,55,65,49,49,48,211,4,4
+242,Mighty Morty,Paper,Rare,114,85,63,63,62,273,6,15
+243,The Dark Morty,Paper,Epic,173,110,77,77,75,339,,25
+244,Lil' Bits Morty,Rock,Exotic,130,100,85,85,85,355,,2
+245,Season 3 Morty,Paper,Exotic,220,90,85,85,100,360,,5
+246,Street Loco Morty,Scissors,Common,80,65,65,53,58,241,4,3
+247,Soldado Loco Morty,Scissors,Rare,150,80,80,66,69,295,6,11
+248,Enforcer Loco Morty,Scissors,Epic,220,95,95,82,85,357,,18
+249,Trunk Morty,Rock,Exotic,230,90,95,90,85,360,,2
+250,Scaly Morty,Scissors,Exotic,240,105,89,89,89,372,,5
+251,Squid Face Morty,Paper,Common,80,55,47,47,50,199,4,2
+252,Tentacle Morty,Paper,Rare,150,80,67,67,76,290,6,10
+253,Octo Morty,Paper,Epic,220,110,89,89,100,388,,20
+254,Pumpkin Morty,Rock,Exotic,180,95,85,95,95,370,,8
+255,Scary Morty,Scissors,Exotic,210,100,90,100,100,390,,14
+256,Pre Atlantis Morty,Rock,Common,80,60,58,61,68,247,4,6
+257,Atlantis Morty,Rock,Rare,150,78,86,78,85,327,6,15
+258,Post Atlantis Morty,Rock,Epic,220,98,108,97,105,408,,25
+259,Specs Morty,Paper,Exotic,210,98,97,101,115,411,,23
+260,Cult of Morty Morty,Scissors,Common,80,70,60,55,62,247,4,5
+261,Cult Leader Morty,Scissors,Rare,150,90,80,75,82,327,6,16
+262,Grand Sage Morty,Scissors,Epic,220,115,95,90,98,398,,27
+263,Campaign Manager Morty,Rock,Exotic,200,98,98,100,105,401,,25
+264,Left Handed Morty,Paper,Exotic,200,95,105,105,95,400,,29
+265,Ronin Morty,Paper,Common,50,60,60,55,55,230,4,4
+266,Samurai Morty,Paper,Rare,100,80,80,75,75,310,6,15
+267,Shogun Morty,Paper,Epic,150,102,102,95,95,394,,26
+268,Cop Morty,Scissors,Exotic,150,98,98,100,100,396,,28
+269,Stool Morty,Rock,Common,50,55,60,55,60,230,4,5
+270,Wooden Chair Morty,Rock,Rare,100,75,80,75,80,310,6,16
+271,Arm Chair Morty,Rock,Epic,150,95,102,95,102,394,,27
+272,Turkey Morty,Scissors,Exotic,150,103,103,95,95,396,,25
+273,Pilgrim Morty,Paper,Exotic,150,104,92,104,92,392,,30
+274,Good Time Morty,Scissors,Common,50,63,51,65,54,233,4,6
+275,Construction Dancer Morty,Scissors,Rare,100,83,71,85,74,313,6,15
+276,Cowboy Dancer Morty,Scissors,Epic,150,103,91,105,94,393,,26
+277,Slick Morty,Paper,Exotic,150,105,87,103,106,401,,27
+278,Christmas Sweater Morty,Paper,Common,50,58,58,58,58,232,4,5
+279,Elf Morty,Paper,Rare,100,78,78,78,78,312,6,15
+280,Santa Morty,Paper,Epic,150,98,98,98,98,392,,25
+281,Snowman Morty,Rock,Exotic,150,105,108,100,100,413,,27
+282,Krampus Morty,Scissors,Exotic,150,100,98,107,98,403,,29
+283,Butt Face Morty,Paper,Exotic,150,110,98,98,98,404,,26
+284,VR Morty,Rock,Exotic,150,98,110,95,105,408,,28
+285,Ball Drop Morty,Scissors,Exotic,150,101,105,101,101,408,,30
+286,New Year's Morty,Scissors,Exotic,150,97,97,103,103,400,,26
+287,Grinder Morty,Paper,Exotic,150,99,109,99,109,416,,29
+288,Friendly Morty,Rock,Exotic,150,105,90,110,110,415,,27
+289,Hunter Morty,Scissors,Exotic,150,95,110,105,105,415,,30
+290,Box Morty,Paper,Exotic,150,109,98,112,90,409,,25
+291,SEAL Morty,Scissors,Exotic,150,90,105,95,125,415,,33
+292,Pancake Morty,Rock,Exotic,150,100,115,95,95,405,,26
+293,Washington Morty,Paper,Exotic,150,95,110,110,90,405,,27
+294,Bartender Morty,Rock,Exotic,150,95,112,95,110,412,,31
+295,Froopy Land Morty,Scissors,Exotic,150,110,98,100,100,408,,27
+296,Purge Morty,Paper,Rare,50,80,85,70,70,305,6,21
+297,Purge Suit Morty,Paper,Epic,100,100,105,90,90,385,,28
+298,St Patrick Morty,Rock,Exotic,150,102,90,105,105,402,,33
+299,Cob Morty,Scissors,Rare,50,80,80,80,80,320,6,22
+300,Gangster Cob Morty,Scissors,Epic,100,100,100,100,100,400,,29
+301,Ants in my Eyes Morty,Paper,Exotic,150,103,95,100,108,406,,35
+302,Easter Egg Morty,Rock,Rare,50,75,65,76,80,296,6,20
+303,Chick Morty,Rock,Epic,100,95,85,95,100,375,,27
+304,Resurrected Morty,Scissors,Exotic,150,94,102,106,101,403,,32
+305,Roller Disco Morty,Paper,Rare,50,73,65,80,80,298,6,22
+306,Roller Derby Morty,Paper,Epic,100,90,85,100,100,375,,29
+307,Loo Roll Morty,Rock,Exotic,150,109,100,103,90,402,,35
+308,Doctor Morty,Scissors,Rare,50,80,65,78,72,295,6,21
+309,Surgeon Morty,Scissors,Epic,100,100,85,98,92,375,,28
+310,Car Morty,Paper,Exotic,150,100,90,100,100,390,,33
+311,Funny Morty,Paper,Exotic,150,93,104,95,120,412,,35
+312,Yankee Doodle Morty,Rock,Exotic,150,92,110,100,100,402,,36
+313,Soccer Ball Morty,Rock,Exotic,150,85,110,105,110,410,,38
+314,Ice Cream Morty,Scissors,Exotic,150,93,89,100,100,382,,37
+315,Lasagna Morty,Scissors,Exotic,150,90,113,103,97,403,,38
+316,The Pale Morty,Scissors,Exotic,150,100,110,105,130,445,,48
+317,Headless Morty,Rock,Exotic,150,90,120,104,90,404,,45
+318,Forbidden Morty,Paper,Exotic,150,110,120,106,100,436,,52
+319,Christmas Future Morty,Scissors,Exotic,150,110,130,120,95,455,,50
+320,Christmas Past Morty,Paper,Exotic,150,120,120,120,90,450,,50
+321,Christmas Present Morty,Rock,Exotic,150,120,115,135,80,450,,50
+322,Trover Morty,Rock,Exotic,150,120,115,135,80,450,,0
+323,Morty Jr.,Rock,Exotic,150,100,100,100,100,400,,N/A
+324,Struggling Artist Morty,Paper,Common,70,70,55,55,60,240,,1
+325,Robot Chicken Morty,Scissors,Exotic,200,95,70,95,110,370,,N/A
+326,Nerd Morty,Paper,Epic,170,89,85,83,85,342,,6
+327,Dethklok Morty,Rock,Exotic,200,100,110,95,75,380,,N/A
+328,Dethklok Fan Morty,Rock,Epic,170,90,90,80,80,340,,12
+329,Kissing Cats Morty,Paper,Epic,185,85,80,80,100,345,,N/A
+330,Wasp Morty,Scissors,Epic,170,80,100,80,100,360,,22
+331,Shrimp Morty,Rock,Rare,115,90,55,100,45,290,,11
+332,High Intern Morty,Paper,Rare,105,70,65,75,67,277,,6
+333,Vermigurber Morty,Rock,Epic,185,100,97,65,65,327,,20
+334,Charred Morty,Paper,Rare,125,58,88,55,70,271,,3
+335,Ventriloquiver Morty,Scissors,Epic,190,95,80,95,85,355,,5
+336,Amoeba Morty,Paper,Exotic,195,105,90,110,95,400,,N/A
+337,Dragon Rider Morty,Rock,Exotic,200,90,115,90,110,405,,25
+338,Archmage Morty,Paper,Epic,175,100,90,80,85,355,,15
+339,Snake Morty,Scissors,Exotic,220,80,95,90,115,380,,27
+340,Space Suit Morty,Normal,Rare,140,90,65,85,60,300,,21
+341,Hobo Santa Morty,Scissors,Exotic,170,95,110,90,105,400,,N/A
+342,Fan Dancer Morty,Paper,Epic,170,90,70,75,100,335,,N/A
+343,Year of the Rat Morty,Scissors,Rare,115,82,58,68,85,293,,N/A
+344,Tanggu Drummer Morty,Rock,Epic,170,70,90,80,100,340,,N/A
+345,Mytholog Morty,Paper,Exotic,150,125,55,125,95,400,,N/A
+346,Cupid Morty,Scissors,Epic,150,70,95,70,98,333,,N/A
+347,Love Heart Morty,Rock,Rare,120,82,72,64,50,268,,N/A
+348,Hopeless Romantic Morty,Paper,Common,70,55,50,50,50,205,,N/A
+349,Good Boy Morty,Paper,Exotic,150,102,100,102,118,422,,N/A
+350,Flannel Morteh,Rock,Common,70,48,52,50,58,208,,0
+351,Hockey Morteh,Rock,Epic,180,95,115,98,95,403,,0
+352,Hockey Stick Morteh,Scissors,Rare,150,82,85,80,95,342,,0
+353,Maple Leaf Morteh,Paper,Common,125,74,67,68,68,277,,0
+354,Maple Syrup Morteh,Paper,Rare,190,90,85,80,85,340,,0
+355,Wendy Morty,Scissors,Common,180,85,90,95,120,390,,N/A
+356,Breakfast Morty,Paper,Common,180,95,110,95,60,360,,N/A
+357,Goomby Morty,Paper,Common,55,75,45,60,46,226,,8
+358,Tickets Please Morty,Scissors,Rare,115,75,72,62,72,281,,12
+359,Badass Suit Morty,Rock,Epic,150,115,110,105,60,390,,17
+360,Glorzo Disguise Morty,Paper,Rare,120,75,70,50,70,265,,13
+361,S.O.S. Morty,Rock,Rare,115,84,62,100,42,288,,14
+362,Nargles Morty,Scissors,Epic,173,95,93,84,98,370,,19
+363,Brake Fluid Morty,Paper,Rare,115,58,65,62,75,260,,15
+364,Drone Morty,Rock,Epic,173,100,100,100,100,400,,21
+365,Dragon Morty,Rock,Exotic,150,100,120,125,100,445,,N/A
+366,Beth's Pet Morty,Scissors,Exotic,190,95,120,102,105,422,,33
+367,Rick's Pet Morty,Scissors,Exotic,190,105,102,120,95,422,,33
+368,MortyBot,Rock,Common,180,110,75,120,85,390,,N/A
+369,Cookout Morty,Scissors,Common,170,55,78,48,65,246,,N/A
+370,Declaration Morty,Paper,Rare,100,60,60,95,95,310,,N/A
+371,Liberty Morty,Rock,Epic,190,100,110,100,60,370,,N/A
+372,Child of Gaia,Rock,Exotic,180,120,95,85,115,415,,N/A
+373,Back to the Past Morty,Scissors,Common,180,95,60,90,105,350,,N/A
+374,Supernova Morty,Paper,Exotic,185,96,120,90,118,424,,N/A
+375,Birdperson Morty,Scissors,Exotic,190,95,90,122,123,430,,N/A
+376,Stone Age Morty,Rock,Rare,150,70,80,70,70,290,4,17
+377,Bronze Age Morty,Rock,Epic,160,90,92,85,80,347,6,19
+378,Iron Age Morty,Rock,Exotic,200,98,112,100,90,400,,27
+379,Chicken Trader Morty,Paper,Common,70,50,57,52,70,229,4,9
+380,Stock Trader Morty,Paper,Rare,135,70,72,62,82,286,6,15
+381,Space Trader Morty,Paper,Epic,180,90,90,77,98,355,,27
+382,Blogger Morty,Paper,Common,80,70,45,45,48,208,4,4
+383,Vlogger Morty,Paper,Rare,120,85,65,62,70,282,6,8
+384,Influencer Morty,Paper,Epic,175,110,80,95,95,380,,14
+385,Baby Morty,Rock,Common,70,55,40,50,60,205,4,2
+386,College Morty,Rock,Rare,145,75,70,75,80,300,6,14
+387,Adult Morty,Rock,Epic,160,100,90,85,65,340,,24
+388,Agent Morty,Scissors,Rare,145,80,80,75,80,315,4,8
+389,Spy Morty,Scissors,Epic,175,95,95,95,95,380,6,12
+390,Spec Ops Morty,Scissors,Exotic,200,105,110,105,110,430,,17
+391,Static Morty,Scissors,Common,80,70,70,55,73,268,4,5
+392,High Voltage Morty,Scissors,Rare,100,83,83,85,84,335,6,15
+393,Electrokinesis Morty,Scissors,Epic,190,103,99,89,90,381,,25
+394,Season 4 Morty,Scissors,Exotic,220,95,105,110,85,395,,5
+395,Tourist Morty,Rock,Common,70,55,50,55,45,205,4,8
+396,Tour Guide Morty,Rock,Rare,140,78,70,68,60,276,6,19
+397,Mountain Guide Morty,Rock,Epic,170,105,82,85,75,347,,29
+398,Employee Morty,Paper,Common,80,57,52,50,48,207,4,1
+399,Assistant Manager Morty,Paper,Rare,140,80,68,68,60,276,6,2
+400,Night Manager Morty,Paper,Epic,175,110,70,100,90,370,,3
+401,Prince Morty,Paper,Rare,120,85,65,85,70,305,6,17
+402,Princess Morty,Paper,Epic,170,75,110,95,100,380,11,19
+403,Queen Morty,Paper,Exotic,200,120,120,100,60,400,,27
+404,Sands of Time Morty,Scissors,Common,150,60,50,70,90,270,4,2
+405,Hands of Time Morty,Scissors,Rare,145,70,70,75,100,315,6,8
+406,Man of Time Morty,Scissors,Epic,165,95,80,100,110,385,,14
+407,Wine Boy Morty,Paper,Rare,115,80,73,85,55,293,,12
+408,Gardener Morty,Scissors,Exotic,180,110,100,90,120,420,,15
+409,Squid Morty,Rock,Exotic,115,120,80,125,85,410,,13
+410,Glockenspiel Morty,Paper,Epic,170,90,85,100,90,365,,15
+411,Toxic Metal Morty,Rock,Exotic,190,115,85,100,105,405,,N/A
+412,Acid Rain Morty,Rock,Epic,175,95,110,80,85,370,,15
+413,Pizza Delivery Morty,Scissors,Rare,110,75,65,55,85,265,,10
+414,Robe Morty,Scissors,Epic,115,70,65,55,80,270,,12
+415,Professor Shabooboo Morty,Paper,Exotic,160,110,100,80,105,395,,20
+416,Changeformer Bro Morty,Rock,Epic,120,80,90,75,60,305,,5
+417,Hell Demon Morty,Scissors,Exotic,175,119,111,85,77,392,,12
+418,Turkey Soldier Morty,Rock,Rare,180,88,70,68,70,296,,8
+419,Soldier Morty,Paper,Common,75,70,55,60,60,245,,0
+420,Supernova Party Morty,Rock,Exotic,180,110,105,120,90,425,,N/A
+421,Boob World Morty,Paper,Epic,180,90,80,85,75,330,,N/A
+422,Gotron Morty,Rock,Exotic,150,95,90,95,130,410,,20
+423,Birding Man Morty,Rock,Rare,160,68,70,85,64,287,,5
+424,Tammy Morty,Paper,Epic,180,80,110,65,80,335,,10
+425,Super Soldier Morty,Scissors,Exotic,190,110,95,115,95,415,,N/A
+426,Crow Morty,Paper,Common,80,65,90,70,55,280,,10
+427,Jetpack Morty,Rock,Epic,175,90,85,110,90,375,,10
+428,Forty Morty,Scissors,Rare,120,80,110,90,70,350,,5
+429,Evil Morty,Paper,Exotic,190,100,120,130,90,440,,10
+430,Starfetus Morty,Scissors,Exotic,190,120,100,95,110,425,,N/A
+431,Dapper Morty,Paper,Common,75,60,60,50,55,225,4,8
+432,Preppy Morty,Paper,Rare,115,86,82,70,69,307,6,19
+433,Boy Band Morty,Paper,Epic,150,102,102,95,95,394,,26
+434,Ruby Morty,Rock,Common,70,56,54,56,54,220,4,10
+435,Sapphire Morty,Rock,Rare,132,74,70,74,70,288,6,20
+436,Emerald Morty,Rock,Epic,204,82,85,95,80,342,,30
+437,Candelabra Morty,Paper,Common,71,58,50,45,45,198,4,4
+438,Lamp Morty,Paper,Rare,126,75,55,65,60,255,6,15
+439,Decorative Fireplace Morty,Paper,Epic,173,110,77,78,75,340,,25
+440,Art Critic Morty,Paper,Rare,90,90,75,75,80,320,6,N/A
+441,Cubism Morty,Paper,Epic,110,110,95,95,100,400,,N/A
+442,Bloodthirsty Morty,Scissors,Rare,120,85,85,110,70,350,,10
+443,Helmet Morty,Rock,Common,50,60,50,33,90,233,,3
+444,Marta Morty,Rock,Epic,140,85,75,95,85,340,,15
+445,Larry Morty,Paper,Epic,175,120,95,90,60,365,,20
+446,Nightmare Morty,Normal,Exotic,180,115,95,95,115,420,,N/A
+447,Pill Bug Morty,Scissors,Exotic,180,85,80,130,90,385,,20
+448,Holodeck Morty,Rock,Rare,130,90,65,70,85,310,,5
+449,Washboard Morty,Rock,Epic,75,80,90,65,55,270,,20
+450,Night Person Morty,Normal,Exotic,170,115,115,90,60,380,,20
+451,Operation Morty,Paper,Rare,140,80,75,65,70,290,,20
+452,Businesswoman Morty,Paper,Exotic,115,95,95,100,110,400,,15
+453,Triceratops Morty,Paper,Epic,150,120,80,100,60,360,,20
+454,Tyrant Lizard Morty,Rock,Exotic,180,105,120,85,70,380,,15
+455,Bacterium Morty,Rock,Common,70,50,45,45,50,190,4,13
+456,Land Fish Morty,Rock,Rare,120,70,60,60,60,250,6,22
+457,Primate Morty,Rock,Epic,170,95,105,110,90,400,,28
+458,Hiker Morty,Rock,Rare,85,76,57,82,86,301,4,5
+459,Backpacker Morty,Rock,Epic,145,88,72,94,97,351,6,16
+460,Explorer Morty,Rock,Exotic,150,102,83,113,117,415,,22
+461,Story Lord Morty,Normal,Exotic,170,95,105,120,60,380,,20
+462,Jesus Christ Morty,Rock,Exotic,190,105,100,105,120,420,,20
+463,Pissmaster Morty,Rock,Exotic,160,120,85,80,100,385,,10
+464,Cookie Magneto Morty,Scissors,Epic,165,95,100,85,80,350,,10
+465,King of the Sun Morty,Normal,Epic,170,90,85,85,85,345,,20
+466,Mortanial Morty,Paper,Epic,160,75,65,85,70,295,,20
+467,Old Man Hucksbee Morty,Normal,Exotic,190,105,100,110,85,400,,N/A
+468,Laser Sword Morty,Scissors,Rare,110,90,65,55,40,250,,15
+469,Droid Morty,Paper,Epic,165,100,75,65,80,320,,15
+470,No Dinos Morty,Normal,Exotic,190,95,105,100,125,425,,N/A
+471,Squanchy Morty,Rock,Exotic,255,125,125,105,30,385,,27
+472,Gene Morty,Scissors,Common,70,50,52,54,120,276,,7
+473,Jerry Rick Morty,Paper,Rare,100,30,120,120,30,300,,12
+474,Rick Jerry Morty,Paper,Common,40,75,75,75,75,300,,6
+475,Mr. Stabby Morty,Scissors,Epic,85,75,122,71,118,386,,31
+476,Unity Morty,Paper,Rare,120,47,100,100,40,287,,17
+477,Ethical Spaghetti Morty,Scissors,Common,82,60,40,90,90,280,,2
+478,Can of Spaghetti Morty,Rock,Epic,170,117,75,91,80,363,,17
+479,Hippie Cultist Morty,Rock,Exotic,190,135,123,80,82,420,,N/A
+480,Original Grandson Morty,Paper,Common,190,60,100,100,60,320,,1
+481,Uncle Slow Morty,Paper,Rare,70,80,90,95,10,275,,8
+482,Sailboat Morty,Rock,Rare,90,100,95,90,85,370,,17
+483,Apeborg Morty,Paper,Epic,230,110,90,90,85,375,,30
+484,Juiced Up Morty,Scissors,Epic,110,100,100,100,72,372,,25
+485,Frolf Morty,Paper,Rare,95,90,120,60,90,390,,18
+486,Lithium P Morty,Paper,Exotic,235,90,95,120,120,425,,32
+487,Water T Morty,Paper,Common,70,60,90,30,100,280,,12
+488,Numbericon Morty,Paper,Exotic,190,135,75,135,95,440,,N/A
+489,Pocket Morty,Normal,Rare,70,90,90,90,90,360,,10
+490,Valhalla Morty,Rock,Exotic,202,101,140,52,85,378,,27
+491,Fear Hole Morty,Rock,Common,80,65,50,48,70,233,,18
+492,Singing Robot Morty,Paper,Exotic,210,116,92,120,92,420,,40
+493,Interdimensional Morty,Scissors,Exotic,190,86,95,117,130,428,,N/A
+494,Dragon's Sweat Morty,Rock,Common,98,50,50,50,50,200,,1
+495,Dragon's Tear Morty,Paper,Exotic,255,80,90,95,90,355,,27
+496,Little Morty,Scissors,Rare,100,100,130,50,30,310,,10
+497,Jet Morty,Scissors,Epic,95,80,85,75,100,340,,15
+498,Space Morty,Rock,Epic,130,100,85,100,95,380,,15
+499,Plain Old Morty,Paper,Common,80,50,50,40,70,210,,1
+500,Anime Prisoner Morty,Scissors,Rare,100,70,90,55,95,310,,10
+501,Black Market Morty,Paper,Rare,100,60,80,50,100,290,,10
+502,King of the Land Morty,Scissors,Rare,120,70,100,70,80,320,,10
+503,Green Guy Morty,Rock,Epic,120,85,85,100,90,360,,15
+504,Anime Tammy Morty,Scissors,Rare,90,100,60,60,90,310,,10
+505,Elle Morty,Paper,Exotic,140,110,90,80,120,400,,27
+506,Gromflomite Morty,Rock,Epic,100,85,100,80,75,340,,15
+507,Caveman Morty,Rock,Common,90,70,60,55,55,240,,1
+508,Crying Morty,Paper,Common,80,50,50,40,70,210,,1
+509,Mechasuit Morty,Scissors,Exotic,120,100,125,100,70,395,,27
+510,Anime VR Morty,Rock,Exotic,100,100,100,80,140,420,,27
+511,Hunk Morty,Paper,Exotic,100,140,80,100,100,420,,27
