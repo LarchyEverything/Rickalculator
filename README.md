@@ -4,13 +4,13 @@
 
    ## Bot Output Example
 
-   [Your image description here]
+   [Example of using /IV]
 
    ![Bot Output Example](example.png)
 
    ## Features
 
-   - Calculate IVs for Mortys based on screenshots
+   - Calculate IVs for Mortys based on screenshots using image processing
    - Display Morty information including type and rarity
    - Support for both untrained and fully trained Mortys
 
