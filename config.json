@@ -1,0 +1,20 @@
+{
+    "token": "THIS IS THE DISCORD BOT TOKEN",
+    "tesseract_cmd": {
+        "windows": "C:\\Program Files\\Tesseract-OCR\\tesseract.exe",
+        "linux": "/usr/bin/tesseract"
+    },
+    "csv_path": "All_Mortys.csv",
+    "morty_images_path": "morty_images",
+    "type_emojis": {
+        "Scissors": "<:Sc:1293021206790013020>",
+        "Paper": "<:Pap:1293021270060826634>",
+        "Rock": "<:Ro:1293021136950526165>"
+    },
+    "rarity_emojis": {
+        "Epic": "<:epic:1294062041564446862>",
+        "Rare": "<:rare:1294062045012164608>",
+        "Exotic": "<:exotic:1294062043543896106>",
+        "Common": "<:common:1294062042755502121>"
+    }
+}
