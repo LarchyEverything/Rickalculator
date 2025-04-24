@@ -508,5 +508,34 @@ Number,Name,Type,Rarity,xp,hp,atk,def,spd,total,NumberToEvolve,BadgesRequired
 507,Caveman Morty,Rock,Common,90,70,60,55,55,240,,1
 508,Crying Morty,Paper,Common,80,50,50,40,70,210,,1
 509,Mechasuit Morty,Scissors,Exotic,120,100,125,100,70,395,,27
-510,Anime VR Morty,Rock,Exotic,100,100,100,80,140,420,,27
-511,Hunk Morty,Paper,Exotic,100,140,80,100,100,420,,27
+510,Space Morty Fan Morty,Paper,Epic,100,100,80,90,60,330,
+511,Multiverse Morty,Scissors,Exotic,120,85,85,100,110,380,
+512,Dealership Morty,Paper,Common,90,60,60,50,70,240,
+513,Dad Morty,Rock,Epic,90,85,75,95,75,330,
+514,Anime VR Morty,Rock,Exotic,100,100,100,80,140,420,
+515,Hunk Morty,Paper,Exotic,100,140,80,100,100,420,
+516,Man of Legend Jerry Morty,Scissors,Exotic,100,100,100,80,140,420,
+517,Mouth Morty,Rocl,Common,60,70,60,50,40,220,4
+518,Stomach Morty,Rock,Epic,130,100,95,75,70,340,6
+519,Intestine Morty,Rock,Exotic,220,120,100,95,85,400,
+520,Nerve Cell Morty,Paper,Rare,100,65,105,55,70,295,4
+521,Spine Morty,Paper,Epic,130,80,115,65,80,340,6
+522,Big Brain Morty,Paper,Exotic,220,100,140,80,90,410,
+523,Face Hole Morty Morty,Scissors,Common,60,50,45,75,50,220,4
+524,Face Hole Summer Morty,Scissors,Rare,100,80,60,100,70,310,6
+525,Face Hole Rick Morty,Scissors,Exotic,220,115,80,125,90,410,
+526,Tea Cup Morty,Paper,Rare,100,50,70,60,100,280,4
+527,Log Ride Morty,Paper,Epic,130,70,85,90,110,355,6
+528,Ferris Wheel Morty,Paper,Exotic,220,90,100,110,125,425,
+529,Hatchling Morty,Rock,Common,70,63,42,37,55,197,4
+530,Fledgling Morty,Rock,Rare,220,100,46,44,97,287,6
+531,Pterodactyl Morty,Rock,Exotic,320,133,63,61,132,389,
+532,Rock Prop Morty,Paper,Rare,120,64,58,64,47,223,4
+533,Tree Prop Morty,Paper,Epic,160,77,72,81,58,288,6
+534,Cow Prop Morty,Paper,Exotic,200,90,86,98,69,343,
+535,Puppet Morty Morty,Scissors,Common,50,42,35,30,35,142,4
+536,Puppet Summer Morty,Scissors,Rare,75,50,43,38,43,174,6
+537,Puppet Rick Morty,Scissors,Exotic,100,58,53,48,53,212,
+538,Pixie Morty,Scissors,Rare,80,52,55,41,55,203,4
+539,Harpy Morty,Scissors,Epic,170,80,91,71,91,333,6
+540,Phoenix Morty,Scissors,Exotic,260,90,127,70,127,414,
